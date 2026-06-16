@@ -664,3 +664,5 @@ grep -n ":: co2\|day_lag_mx" src/basin_module.f90
 grep -n "bsn_prm%co2" src/basin_prm_default.f90
 grep -n "file(GLOB\|main.f90.in" CMakeLists.txt
 ```
+## My data
+1. Eskubiklik on my_data eta `cargar`ematen diou. Hor TxtInOut batea juten gea ta bertako archivok seleccionau eta iriki. Hola gure datuk igotzen die, eta pruebak gure datutan ingo ditugu
